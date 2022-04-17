@@ -42,3 +42,5 @@ ___
     4. Sequence Classification of Movie Reviews
     5. Understanding Stateful LSTM Recurrent Neural Networks
     6. Text Generation With Alice in Wonderland
+
+6. Future Work
